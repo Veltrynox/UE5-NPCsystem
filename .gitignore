@@ -1,0 +1,15 @@
+# Ignore all files by default
+/*
+!.gitignore
+!Source/
+
+Source/*
+!Source/npc_system/
+
+Source/npc_system/*
+!Source/npc_system/EnvQueryGenerator_CoverPoints.h
+!Source/npc_system/EnvQueryGenerator_CoverPoints.cpp
+!Source/npc_system/TacticalCoverPoint.h
+!Source/npc_system/TacticalCoverPoint.cpp
+!Source/npc_system/TacticalAIController.h
+!Source/npc_system/TacticalAIController.cpp
